@@ -45,9 +45,9 @@ public class LotteryOdds
 		
 		//Output 
 		JOptionPane.showMessageDialog(null,
-									  "The odds of winning this game: " + sTotalOdds,
-						              "Lottery Odds",
-		                			  JOptionPane.INFORMATION_MESSAGE);
+					      "The odds of winning this game: " + sTotalOdds,
+					      "Lottery Odds",
+		                	      JOptionPane.INFORMATION_MESSAGE);
 		System.exit(0);
 	
 	}//end of main method
